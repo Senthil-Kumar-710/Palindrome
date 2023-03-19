@@ -62,9 +62,9 @@ namespace Palindrome
 ```
 
 ## Output:
-![npal](https://user-images.githubusercontent.com/93427254/226117533-0a8a90b6-73b9-4826-b1d5-45f9d462c0c3.png)
+![smth](https://user-images.githubusercontent.com/93860256/226189760-ef41f70b-b6b9-4070-b629-9436bf0ed7ee.JPG)
 
-![pal](https://user-images.githubusercontent.com/93427254/226117534-4c10cb25-d27c-4a7a-a6f4-f948e59dfef6.png)
+![smth1](https://user-images.githubusercontent.com/93860256/226189790-db3a95cf-83e8-4199-8d71-2a3a4c0683de.JPG)
 
 
 
